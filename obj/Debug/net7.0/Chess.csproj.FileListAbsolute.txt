@@ -1,0 +1,4 @@
+D:\Programming\Chess\Chess\obj\Debug\net7.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Chess\Chess\obj\Debug\net7.0\Chess.AssemblyInfoInputs.cache
+D:\Programming\Chess\Chess\obj\Debug\net7.0\Chess.AssemblyInfo.cs
+D:\Programming\Chess\Chess\obj\Debug\net7.0\Chess.csproj.CoreCompileInputs.cache
